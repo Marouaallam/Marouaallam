@@ -21,13 +21,14 @@
 ## My github stats📈 
 <div>
   <p>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Marouaallam&show_icons=true&locale=en&layout=compact&theme=radical" alt="Marouaallam" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Marouaallam&show_icons=true&theme=radical" alt="Marouaallam" />
+  
 </p>
 </div>
 
 ## Most Used Languages📊
 <div>
 <p >
-  <img src="https://github-readme-stats.vercel.app/api?username=Marouaallam&show_icons=true&theme=radical" alt="Marouaallam" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Marouaallam&show_icons=true&locale=en&layout=compact&theme=radical" alt="Marouaallam" />
 </p>
 </div>
