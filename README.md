@@ -11,7 +11,7 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/allam maroua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allam maroua" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/maroua allam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allam maroua" height="30" width="40" /></a>
 <a href="https://instagram.com/almmaroua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="almmaroua" height="30" width="40" /></a>
 </p>
 
